@@ -1,9 +1,17 @@
 <h1>About Me 🤔</h1>
-Hey there! I'm a software developer who loves learning and growing. I'm on the lookout for a cool team that's ready to let me shine and be a key player.
 
+    <p>Hey there! 👋 I'm a passionate software developer eager to learn and grow. I'm currently on the lookout for a dynamic team that values collaboration and allows me to contribute significantly.</p>
 
-I've got a degree in Web Media and have done some pretty neat stuff in videography, photography, and design. These gigs taught me a lot about problem-solving and just getting things done. I'm all about teamwork and making sure we're on the same page.
+    <h2>Background 🎓</h2>
 
-I've always been a curious person, always learning and creating. That's why I decided to switch things up and get into software development. I've been on a journey with The Odin Project, learning a ton and building the skills I use every day as a developer. TOP is great because I can go at my own pace, and it's all about projects. Thanks to their curriculum, I'm super confident I can learn whatever I need, no matter the tech stuff.
+    <p>I hold a degree in Web Media and have gained valuable experience in videography, photography, and design. These roles have honed my problem-solving skills and taught me the importance of getting things done as a team.</p>
 
-When I'm not coding, you'll probably find me playing video games, reading, or cooking up something tasty for my family.
+    <h2>Journey into Software Development 💻</h2>
+
+    <p>I've always been a curious soul, constantly learning and creating. This curiosity led me to make a career shift into software development. I'm currently immersed in an exciting journey with The Odin Project, where I'm not only learning a ton but also building the skills necessary for my everyday work as a developer. The self-paced, project-centric nature of TOP perfectly aligns with my learning style. Thanks to their curriculum, I'm incredibly confident that I can adapt and learn anything, regardless of the tech stack.</p>
+
+    <h2>Life Beyond Code 🌟</h2>
+
+    <p>When I'm not immersed in coding, you'll likely find me exploring the virtual realms of video games, getting lost in a good book, or whipping up something delicious in the kitchen for my family.</p>
+
+    <p>Let's connect and chat about all things tech and beyond! 🚀</p>
