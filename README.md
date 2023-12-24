@@ -1,4 +1,4 @@
-<h1>Stuff about me:</h1>
+<h1>About Me 🤔</h1>
 Hey there! I'm a software developer who loves learning and growing. I'm on the lookout for a cool team that's ready to let me shine and be a key player.
 
 I've got a degree in Web Media and have done some pretty neat stuff in videography, photography, and design. These gigs taught me a lot about problem-solving and just getting things done. I'm all about teamwork and making sure we're on the same page.
